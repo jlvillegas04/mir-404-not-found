@@ -56,7 +56,7 @@ I would like to get a better understanding of interactive CSS, so I can make cle
 
 ## Author
 
-- Website - [Juan Villegas](https://github.com/jlvillegas04")
+- Website - [Juan Villegas](https://github.com/jlvillegas04)
 
 
 ## Acknowledgments
